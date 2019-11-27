@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="infobus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/infobus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

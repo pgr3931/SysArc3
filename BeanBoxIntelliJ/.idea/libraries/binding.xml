@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="binding">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Test/lib/binding.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
