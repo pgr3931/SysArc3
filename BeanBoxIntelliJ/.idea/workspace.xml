@@ -9,8 +9,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21d8dcce-5c15-4ff3-b806-d3163793ccbb" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="21d8dcce-5c15-4ff3-b806-d3163793ccbb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeanBoxIntelliJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BeanBoxIntelliJ/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,42 +40,24 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>save</find>
-      <find>export</find>
-      <find>generate</find>
-      <find>adapter</find>
-      <find>eventtar</find>
-      <find>addev</find>
-      <find>load</find>
-      <find>mouse</find>
-      <find>toolbox</find>
-      <find>wrapper</find>
-      <find>pending</find>
-      <find>crop</find>
-      <find>changedProperties</find>
-      <find>base</find>
-      <find>event</find>
-      <find>property</find>
-      <find>validate</find>
-      <find>check</find>
-      <find>infer</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1UCb8vWZyoxMLnylDuTEAYPPDtY" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -80,28 +66,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\walte\IdeaProjects\SysArc3\BeanBoxIntelliJ\lib" />
+      <recent name="C:\Users\walte\IdeaProjects\SysArc3\BeanBoxIntelliJ\jars" />
+      <recent name="C:\Users\walte\IdeaProjects\SysArc3\BeanBoxIntelliJ\src\solution" />
       <recent name="D:\Projects\Studium\BeanBoxExtension\Test\lib" />
       <recent name="D:\Projects\Studium\BeanBoxExtension\TestBeans" />
-      <recent name="D:\Projects\Studium\Beans\lib" />
-      <recent name="D:\Projects\Studium\Beans" />
-      <recent name="D:\Projects\Studium\Beans\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\Studium\BeanBoxExtension\lib" />
       <recent name="D:\Projects\Studium\BeanBoxExtension\TestBeans" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.BeanBoxFrame">
     <configuration default="true" type="Applet">
@@ -147,19 +121,6 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="BeanBoxExtension" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -232,6 +193,18 @@
       <projects_view />
     </option>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -267,11 +240,33 @@
       <workItem from="1499426107623" duration="21888000" />
       <workItem from="1499599929412" duration="31279000" />
       <workItem from="1574863370807" duration="920000" />
+      <workItem from="1574864425688" duration="2443000" />
+      <workItem from="1574942918369" duration="1741000" />
+      <workItem from="1574954602085" duration="659000" />
+      <workItem from="1574955322613" duration="2900000" />
+      <workItem from="1575013509511" duration="383000" />
+      <workItem from="1575039933956" duration="4064000" />
+      <workItem from="1575048813074" duration="2129000" />
+      <workItem from="1575105775289" duration="142000" />
+      <workItem from="1575189315103" duration="6115000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -280,6 +275,32 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1575105842673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575105842673" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1575199938262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575199938262" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1575199938262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575199938262" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1575199938262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575199938262" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1575199938262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575199938262" />
+    <state x="209" y="32" key="new project wizard" timestamp="1575105848881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1575105848881" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
