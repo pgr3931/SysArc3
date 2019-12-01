@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+
+Name: solution/ImageSource.class
+Java-Bean: True
+
+Name: solution/RectangleFilter.class
+Java-Bean: True
+
+Name: solution/DataSink.class
+Java-Bean: True
+
+Name: solution/BallsFilter.class
+Java-Bean: True
+
+Name: solution/MedianFilter.class
+Java-Bean: True
+
+Name: solution/SaveFilter.class
+Java-Bean: True
+
+Name: solution/ThresholdFilter.class
+Java-Bean: True
+
+Name: calcCentroidsFilter/CalcCentroidsFilter.class
+Java-Bean: True
